@@ -6,9 +6,9 @@
 ## Repository Structure
 
 ### 📁 CryptoClustering/
-├── 📁 Resources/           # Contains datasets used in analysis
-├── Crypto_Clustering.ipynb #Jupyter notebook
-├── README.md               # Project overview and code source information
+### ├── 📁 Resources/           # Contains datasets used in analysis
+### ├── Crypto_Clustering.ipynb #Jupyter notebook
+### ├── README.md               # Project overview and code source information
 
 ## Support & Resources
 #### Chat GBT was used to help complete this challenge and debug code. 
